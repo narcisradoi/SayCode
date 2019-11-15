@@ -1,7 +1,5 @@
-# SayCode
-## SayCode - say what you want the code to do
-
-This programming language aims to allow someone who does not know how to code to generate code in the best-practice programming language by using a natural sentence like command and indentation for a better coder user experience.
+# SayCode - say what you want the code to do
+## A programming language which aims to allow someone who does not know how to code to generate code in the best-practice-use programming language by using a natural sentence-like commands and indentation for a better coder user experience.
 
 This also aims tocombine the best parts of all languages it supports and remove the time spent worrying about syntax, missing brackets and not remembering function, method or names of properties of a library by minimising these and just "saying" what you want to get done.
 
