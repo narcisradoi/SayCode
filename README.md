@@ -75,7 +75,7 @@ class container
 	class hello
 	content(Hello)
 	
-  div 
+  	div 
 	class goodbye
 	content(Goodbye)
 
